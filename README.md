@@ -20,7 +20,7 @@ Esse projeto foi desenvolvido utilizando a seguinte tecnologia:
 <a id="como-usar"></a>
 ## :zap: Como usar
 
-- Faça um clone desse repositório: `git clone https://github.com/ThalysonOliveira/ReactNutri.git`
+- Faça um clone desse repositório: `git clone https://github.com/CharlesrRamos/ReactNutri.git`
 - Instale as dependências: `yarn` ou `npm install`
 - Inicie a aplicação:
    - Rode o comando de inicialização: `yarn start` ou `npm start`
